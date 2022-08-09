@@ -11,7 +11,7 @@ public class Main {
         if (inputtedNum < 5) {
             System.out.println("Enjoy the good luck a friend brings you");
         } else {
-            System.out.println("Your shoe selection will make you very happy today");
+            System.out.println("Your shoe selection will make you very happy today.Yes, yes");
         }
     }
 }
